@@ -4,7 +4,7 @@
   "metadata": {
     "colab": {
       "provenance": [],
-      "authorship_tag": "ABX9TyOO7gzbbEleqpkfiY8ZDMyP",
+      "authorship_tag": "ABX9TyNcC1CkNJ/JBZItPjzUTVvj",
       "include_colab_link": true
     },
     "kernelspec": {
@@ -25,6 +25,15 @@
       "source": [
         "<a href=\"https://colab.research.google.com/github/Shrijit-Roy/computational-shortcuts/blob/main/computational-shortcuts.inpynb\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
       ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Shrijit-Roy/computational-shortcuts/blob/main/computational_shortcuts.ipynb)"
+      ],
+      "metadata": {
+        "id": "r8QRm-HtI_7R"
+      }
     },
     {
       "cell_type": "code",
